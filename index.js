@@ -62,37 +62,80 @@
 // let afterTwoYears=invest**year;
 // console.log(afterTwoYears)
 
-let maximumAttempt=5;
-console.log(`The maximum login attempts : ${maximumAttempt}`)
+// let maximumAttempt=5;
+// console.log(`The maximum login attempts : ${maximumAttempt}`)
 
-let defaltBill=20;
-let actualBill=30;
-let totalBill=defaltBill+actualBill;
-console.log(`Total price of product: ${totalBill} `)
+// let defaltBill=20;
+// let actualBill=30;
+// let totalBill=defaltBill+actualBill;
+// console.log(`Total price of product: ${totalBill} `)
 
-let currentScore=20;
-let bonus=5;
-currentScore+=bonus;
-console.log(`total score is : ${currentScore}`)
+// let currentScore=20;
+// let bonus=5;
+// currentScore+=bonus;
+// console.log(`total score is : ${currentScore}`)
 
-let dailySteps=200;
-dailySteps=+10;
-console.log(dailySteps)
-
-
-let priceInVallet=1000;
-let chipsPrice=50;
-priceInVallet-=chipsPrice;
-console.log(`Remaining balence in vallet : ${priceInVallet}`)
+// let dailySteps=200;
+// dailySteps=+10;
+// console.log(dailySteps)
 
 
-let EmiBalence=12000;
-let monthlyPaid=1000;
-EmiBalence-=1000;
-console.log(`Next month remaining balence : ${EmiBalence}`)
+// let priceInVallet=1000;
+// let chipsPrice=50;
+// priceInVallet-=chipsPrice;
+// console.log(`Remaining balence in vallet : ${priceInVallet}`)
 
 
-let productPrice=1200001;
-let GstTtaxes=0.05;
-productPrice *=GstTtaxes;
-console.log(productPrice)
+// let EmiBalence=12000;
+// let monthlyPaid=1000;
+// EmiBalence-=1000;
+// console.log(`Next month remaining balence : ${EmiBalence}`)
+
+
+// let productPrice=1200001;
+// let GstTtaxes=0.05;
+// productPrice *=GstTtaxes;
+// console.log(productPrice)
+
+// let num1=Number(true)
+// console.log(num1)   //1
+
+// let num2=Number(false)
+// console.log(num2)       //0
+
+// let num3=Number(null)
+// console.log(num3)       //0
+
+// let num4=Number(undefined)
+// console.log(num4)      //NaN
+
+// let num5=Number([])
+// console.log(num5)   //0
+
+// let num6=Number({})  //NaN
+// console.log(num6)
+
+// let storedProductId="12345678";
+// let scannedProductId="12345678";
+// let match =scannedProductId===storedProductId;
+// console.log(`store id and scanned id is match -> ${match}`)
+
+// let savedPaymentMethod="Upi";
+// let selectPaymentMethod="Upi";
+// let verify=savedPaymentMethod===selectPaymentMethod;
+// console.log(`saved payment methon and select payment method are same -> ${verify}`)
+
+// let storeCountryCode="+91";
+// let selectedCountryCode="+1";
+// let isDifferent=storeCountryCode!==selectedCountryCode;
+// console.log(`contry code is not match -> ${isDifferent}`)
+
+// let roomTemp=27;
+// let comfortableTemp=20;
+// let isOn=roomTemp>comfortableTemp;
+// console.log("Need Ac on ->",isOn)
+
+let requiredMinimuAttendes=80;
+let studentAttendence=79.99;
+let exam=studentAttendence>requiredMinimuAttendes;
+console.log(`Student appear in exam -> ${exam}`)
