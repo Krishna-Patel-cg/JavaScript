@@ -1,5 +1,4 @@
 let speed = 65;
-
 if (speed < 40) {
     console.log("Slow");
 } else if (speed <= 80) {
