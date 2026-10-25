@@ -1,0 +1,4 @@
+let firstClassCollection=15000;
+let secondClassCollection=12500;
+let totalCollection=firstClassCollection+secondClassCollection
+console.log(totalCollection)
