@@ -1,7 +1,7 @@
 let value = 25;
 console.log(typeof value);
 
-value = "JavaScript";
+value = "javaScript";
 console.log(typeof value);
 
 value = false;
