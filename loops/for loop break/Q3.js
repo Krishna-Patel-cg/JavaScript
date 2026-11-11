@@ -1,5 +1,5 @@
 let sum=0
-for (i=1;i<=100;i++){
+for (j=1;j<=100;j++){
     sum+=i
     console.log(sum)
     if (sum>100)
