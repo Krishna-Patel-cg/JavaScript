@@ -138,4 +138,4 @@
 let requiredMinimuAttendes=80;
 let studentAttendence=79.99;
 let exam=studentAttendence>requiredMinimuAttendes;
-console.log(`Student appear in exam -> ${exam}`)
+console.log(`Student appear in exam  -> ${exam}`)
