@@ -133,7 +133,7 @@
 // let roomTemp=27;
 // let comfortableTemp=20;
 // let isOn=roomTemp>comfortableTemp;
-// console.log("Need Ac on ->",isOn)
+// console.log("Need Ac on ",isOn)
 
 let requiredMinimuAttendes=80;
 let studentAttendence=79.99;
