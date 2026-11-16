@@ -5,7 +5,7 @@
 // console.log(y)
 
 
-// let a=10;
+// let a=20;
 // let b=30;
 // let c=a+b;
 // console.log("The addition of a&b is ",c);
