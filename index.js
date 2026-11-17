@@ -17,7 +17,6 @@
 // totalCharge=baseRent+mentanceCharge;
 // console.log("Total charge is ", totalCharge);
 
-
 // let Instagram=2;
 // let youtube=3;
 // total_time=Instagram+youtube
